@@ -13,7 +13,7 @@
   }
 }
 
-.App-header {
+.App-body {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -39,4 +39,8 @@
 
 button {
   font-size: calc(10px + 2vmin);
+}
+
+.book {
+  text-align: center;
 }
