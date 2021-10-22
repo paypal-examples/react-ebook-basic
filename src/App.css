@@ -44,3 +44,19 @@ button {
 .book {
   text-align: center;
 }
+
+.Toast {
+  background: yellow;
+  width: 50%;
+  display: block;
+  margin-bottom: 1em;
+  text-align: center;
+  color: black;
+  height: 50px;
+  transition: height 400ms 1000ms;
+  overflow: hidden;
+}
+
+.Toast-done {
+  height: 0;
+}
